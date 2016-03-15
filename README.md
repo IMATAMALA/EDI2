@@ -1,0 +1,2 @@
+# EDI2
+EDIFACT, un estándar internacional para el intercambio EDI en sectores comerciales y no comerciales, tiene una sintaxis subyacente que es un estándar ISO.  En esta sintaxis, hay directorios de elementos de datos, elementos de datos compuestos y mensajes. Hay convenios para colocar mensajes en un "sobre" que identifica al emisor y al receptor y otros atributos de una transmisión. Para obtener más información acerca del estándar de mensajería EDIFACT, consulte el sitio Web de United Nations Centre for Trade Facilitation and Electronic Business
